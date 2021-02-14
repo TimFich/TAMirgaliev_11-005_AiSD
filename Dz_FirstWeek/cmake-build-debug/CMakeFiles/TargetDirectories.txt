@@ -1,0 +1,3 @@
+C:/Users/timir/CLionProjects/Dz_FirstWeek/cmake-build-debug/CMakeFiles/Dz_FirstWeek.dir
+C:/Users/timir/CLionProjects/Dz_FirstWeek/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/timir/CLionProjects/Dz_FirstWeek/cmake-build-debug/CMakeFiles/rebuild_cache.dir
