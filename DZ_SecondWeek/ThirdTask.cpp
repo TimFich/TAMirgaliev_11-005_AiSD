@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 
 using namespace std;
@@ -25,4 +26,5 @@ int main() {
     enterArray_2(a, n);
     sort(a, n);
     return 0;
-}
+
+}*/

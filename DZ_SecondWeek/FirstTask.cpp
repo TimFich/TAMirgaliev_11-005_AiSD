@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 
 using namespace std;
@@ -26,3 +27,4 @@ int main() {
     cout << sum(a, size);
     return 0;
 }
+*/
