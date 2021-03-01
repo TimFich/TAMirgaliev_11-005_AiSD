@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/timir/CLionProjects/DZ_SecondWeek/FirstTask.h
+
+C:/Users/timir/CLionProjects/DZ_SecondWeek/Main.cpp
+FirstTask.h
+C:/Users/timir/CLionProjects/DZ_SecondWeek/FirstTask.h
+
