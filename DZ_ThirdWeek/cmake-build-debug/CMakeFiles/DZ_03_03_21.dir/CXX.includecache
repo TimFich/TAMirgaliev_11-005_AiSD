@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/timir/Documents/GitHub/TAMirgaliev_11-005_AiSD/DZ_ThirdWeek/LinkedList.cpp
+iostream
+-
+
+C:/Users/timir/Documents/GitHub/TAMirgaliev_11-005_AiSD/DZ_ThirdWeek/main.cpp
+iostream
+-
+
