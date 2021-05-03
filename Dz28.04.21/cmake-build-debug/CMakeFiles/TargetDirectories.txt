@@ -1,0 +1,3 @@
+C:/Users/timir/CLionProjects/Dz28.04.21/cmake-build-debug/CMakeFiles/Dz28_04_21.dir
+C:/Users/timir/CLionProjects/Dz28.04.21/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/timir/CLionProjects/Dz28.04.21/cmake-build-debug/CMakeFiles/rebuild_cache.dir
